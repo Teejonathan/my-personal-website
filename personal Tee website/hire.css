@@ -1,0 +1,16 @@
+body{
+	background-color: darkgrey;
+}
+h1{
+	text-align: center;
+	text-decoration-color: white;
+	text-decoration: blinkimg
+	align-items: center;
+}
+.images:hover .hire{
+	align-items: center;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+
+}
